@@ -1,0 +1,2 @@
+# wscopilot
+workshop copilot
